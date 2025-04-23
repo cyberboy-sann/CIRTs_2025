@@ -50,7 +50,7 @@
       <form method="POST" action="#">
         <div class="form-group">
           <i class="fas fa-envelope"></i>
-          <input type="email" name="email_username" placeholder="E-ma!l or Username" required>
+          <input type="email" name="email_username" placeholder="E-mail or Username" required>
         </div>
 
         <div class="form-group">
@@ -243,7 +243,7 @@
       <form method="POST" action="">
         <div class="form-group">
           <i class="fas fa-envelope"></i>
-          <input type="email" name="email_username" placeholder="E-ma!l or Username" required>
+          <input type="email" name="email_username" placeholder="E-mail or Username" required>
         </div>
 
         <div class="form-group">
